@@ -1,0 +1,160 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-color: #ffffff;
+	padding: 15px 0px;
+	width: 100%;
+	float: left;
+	border-bottom: 5px solid #e4e4e4;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+
+
+.nav-link{
+	color: #427a93;
+	margin: 0 15px;
+    font-size: 15px;
+    padding-top: 25px;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+	color:#505050;
+}
+
+
+
+
+.About{
+	width: 100%;
+	float: left;
+	background-color: #ffffff;
+	padding:15px 0px;
+}
+.About-us{
+	padding:45px 0px;
+}
+
+}
+
+.About h2{
+	color: #9b9b9b;
+	font-size: 45px;
+
+}
+
+.About h6{
+	color: #9b9b9b;
+	width: 90%;
+	font-size:13px;
+	padding: 15px 0;
+	line-height: 20px;
+	padding-bottom: 25px;
+	font-size: 16px;
+	font-weight: lighter;
+	line-height: 25px;
+	text-align: justify;
+}
+
+
+
+.Aboutus-rectangles{
+	
+	width: 90%;
+	margin-left:-10%;
+	padding-bottom: 48px;
+}
+
+
+
+footer{
+	background-color: #ef4035;
+	color: #fbd7d6;
+	font-size: 15px;
+	padding: 25px 0px;
+
+}
+footer h6{
+	padding-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive Breakpoint media query*/
+
+/* mobile device  */
+
+@media(min-width: 320px) and (max-width: 576px){
+
+.Aboutus-rectangles{
+	
+	width: 90%;
+	margin-left:0%;
+	padding-bottom: 48px;
+}
+
+}
+
+/* small device*/
+
+@media(min-width: 576.01px) and (max-width: 768px){
+.Aboutus-rectangles{
+	
+	width: 90%;
+	margin-left:0%;
+	padding-bottom: 48px;
+}
+
+}
+
+/* medium device*/
+
+@media(min-width: 768.01px) and (max-width: 992px){
+.Aboutus-rectangles{
+	
+	width: 90%;
+	margin-left:-10%;
+	margin-bottom: 20%;
+}
+
+}
+
+
+/* desktop-laptop*/
+
+@media(min-width: 992.01px) and (max-width: 1200px){
+
+
+}
+
+/* large device*/
+
+@media(min-width: 1200.01px){
+
+
+}
+
+
+
+ 

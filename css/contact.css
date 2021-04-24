@@ -1,0 +1,175 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-color: #ffffff;
+	padding: 15px 0px;
+	width: 100%;
+	float: left;
+	border-bottom: 5px solid #e4e4e4;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+
+
+.nav-link{
+	color: #427a93;
+	margin: 0 15px;
+    font-size: 15px;
+    padding-top: 25px;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+	color:#505050;
+}
+
+
+.banner-main{
+
+}
+.band{
+	background-color: #e4e4e4;
+	height: 4px;
+
+}
+
+
+.Contact{
+	width: 100%;
+	float: left;
+	background-color: #ef4035;
+	padding:45px 0px;
+}
+
+.Contact h2{
+	color: #fff;
+	font-size: 45px;
+
+}
+
+.Contact h6{
+	color: #ffffff;
+	width: 90%;
+	font-size:13px;
+	padding: 20px 0;
+	line-height: 20px;
+	padding-bottom: 50px;
+	font-size: 16px;
+	font-weight: lighter;
+	line-height: 25px;
+	text-align: justify;
+}
+
+.contact-cars{
+	margin-top: 25px;
+
+}
+.contact-rectangles{
+	padding-top: 25px;
+}
+
+.form-control{
+	width: 85%;
+    margin: 5px 0;
+    padding: 30px 0;
+    background: #ff6258;
+    border:none;
+    border-radius: 0px;
+    
+
+    
+   
+}
+.form-group{
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+
+.btn{
+	background:transparent;
+	margin:40px 0;
+	padding: 40px 23px;
+	color:#ff6258;
+	font-size: 50px;
+
+}
+
+
+footer{
+	background-color: #ef4035;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 40px 0px;
+
+
+}
+footer h6{
+	font-weight: lighter;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive Breakpoint media query*/
+
+/* mobile device  */
+
+@media(min-width: 320px) and (max-width: 576px){
+
+
+}
+
+/* small device*/
+
+@media(min-width: 576.01px) and (max-width: 768px){
+
+
+}
+
+/* medium device*/
+
+@media(min-width: 768.01px) and (max-width: 992px){
+
+
+}
+
+
+/* desktop-laptop*/
+
+@media(min-width: 992.01px) and (max-width: 1200px){
+
+
+}
+
+/* large device*/
+
+@media(min-width: 1200.01px){
+
+
+}
+
+
+
+ 
